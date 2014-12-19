@@ -5,7 +5,9 @@ En index 3.0. Inicio del cap 3
 - Generar un repositorio remoto en GitHub
 - Instalar gems de Rspec para testes
 - Desplegar en Heroku
-
+- 3.2 first tests
+- 5.2.1 VerIntegration test
+ 
 OBS:
 - Al crear Controllers sin tener instalado Rspec, no se crean automáticamente estos archivos.
 
